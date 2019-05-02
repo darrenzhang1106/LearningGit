@@ -1,3 +1,4 @@
 Hello Git,
 	I am Learning u.
-		Thanks. i am a develop.
+		Thanks There is big big bug i must fix it 
+		. i am a develop.
