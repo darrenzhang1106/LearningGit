@@ -1,1 +1,2 @@
 I am a new file.
+meanwhile i am a bug,please fix it.
